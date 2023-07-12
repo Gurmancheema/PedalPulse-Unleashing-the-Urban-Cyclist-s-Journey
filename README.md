@@ -82,7 +82,7 @@ The data from cycling dataset is grouped by "Start time", this represent the cou
 - As the dashboard is interactive, it acts dynamically relating the query on one chart to all the charts in the dashboard.
 
 <p align="center">
-  <img width="700" height="400" src="dashbaord.png">
+  <img width="700" height="400" src="dashboard.png">
 </p>
 
 ## 6. Conclusion
